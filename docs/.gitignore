@@ -1,0 +1,4 @@
+# Ignore all files in the _autosummary and _build directories
+_autosummary/
+!_build/html/_autosummary/
+.idea/
